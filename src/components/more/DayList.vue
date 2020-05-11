@@ -6,7 +6,7 @@
             <img :src="item.pic_big" alt="">
              <p>{{item.title}}</p>
         </router-link>
-        
+        <!--  -->
     </div>
 </template>
 <script>
